@@ -1,1 +1,1 @@
-#Actor mdoel (akka) for Scala
+# Actor mdoel (akka) for Scala
